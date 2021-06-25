@@ -1,0 +1,19 @@
+{
+  "name": "jenkindemo",
+  "version": "1.0.0",
+  "description": "this is jenkindemo package",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenkinadmin/jenkindemo.git"
+  },
+  "author": "ninad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenkinadmin/jenkindemo/issues"
+  },
+  "homepage": "https://github.com/jenkinadmin/jenkindemo#readme"
+}
